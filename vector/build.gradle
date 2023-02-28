@@ -279,7 +279,7 @@ dependencies {
     api libs.vanniktech.emojiGoogle
 
     implementation project(":library:external:dialpad")
-    implementation 'com.squareup.retrofit2:converter-gson:2.7.2'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
     implementation 'com.facebook.shimmer:shimmer:0.5.0'
     implementation 'de.hdodenhof:circleimageview:2.2.0'
   //  implementation 'com.applandeo:material-calendar-view:1.7.0'
